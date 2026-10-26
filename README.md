@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+医学 + 代码，关注 AI 与医疗的结合。
+Medicine meets code. Focused on AI in healthcare.
 <!--
 **jiahe-med/jiahe-med** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
